@@ -1,0 +1,17 @@
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Validator.Tests.dll
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Validator.Tests.pdb
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\DemoBankValidation.exe
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\DemoBankValidation.pdb
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\DemoBankValidation.exe.config
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\obj\Debug\Validator.Tests.csprojAssemblyReference.cache
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\obj\Debug\Validator.Tests.csproj.CoreCompileInputs.cache
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\obj\Debug\Validator.Tests.csproj.CopyComplete
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\obj\Debug\Validator.Tests.dll
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\Validator.Tests\obj\Debug\Validator.Tests.pdb

@@ -1,0 +1,7 @@
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\DemoBankValidation\bin\Debug\DemoBankValidation.exe.config
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\DemoBankValidation\bin\Debug\DemoBankValidation.exe
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\DemoBankValidation\bin\Debug\DemoBankValidation.pdb
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\DemoBankValidation\obj\Debug\DemoBankValidation.csprojAssemblyReference.cache
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\DemoBankValidation\obj\Debug\DemoBankValidation.csproj.CoreCompileInputs.cache
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\DemoBankValidation\obj\Debug\DemoBankValidation.exe
+E:\Asp. Net Lessons\Homeworks\hm_2_unit-test\DemoBankValidation\DemoBankValidation\obj\Debug\DemoBankValidation.pdb
